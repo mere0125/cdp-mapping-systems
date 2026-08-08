@@ -116,3 +116,11 @@ walking geometry is requested from an OpenStreetMap pedestrian router. It does
 not include real-time service changes, elevator outages, buses, ferries, event
 sellouts, or station-specific transfer paths. Google Maps directions are linked
 for real-world trip confirmation.
+
+## Future work
+
+In future semesters, I would connect live transit and elevator feeds, automate
+updates from official event pages, and test the ranking system with users in
+different neighborhoods. I would also compare starting locations, budgets, and
+mobility profiles to study how cultural access barriers vary across New York
+while keeping the model's assumptions visible and adjustable.
